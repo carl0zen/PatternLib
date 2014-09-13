@@ -1,27 +1,7 @@
-<!-- MarkdownTOC -->
 
-- About US
-- Pattern Library
-	- Grid
-	- Typography
-	- Buttons
-	- Form Elements
-	- Icons
-	- Feedback
-	- Navigation
-	- Animations
-	- Tabs and Accordions
-	- Carousels
 
-<!-- /MarkdownTOC -->
-
-About US
-==
-We are the Alpha Sights Development team
-
-[Github Pages](http://carlosepp.github.io/AlphaSightsAbout/)
-
-# Pattern Library
+## Pattern Library
+===
 
 This is our pattern library
 
